@@ -186,4 +186,4 @@ years:
 
 ## Useful Links
 
-- [My Portfolio](https://rajnikantdhardwivedi-portfolio.netlify.app) - Rajnikant Dhar Dwivedi's Portfolio
+- [My Portfolio](https://rajnikantdhardwivedi-mu.vercel.app/) - Rajnikant Dhar Dwivedi's Portfolio
