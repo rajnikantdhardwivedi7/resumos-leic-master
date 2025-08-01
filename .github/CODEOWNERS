@@ -1,103 +1,103 @@
 # Global owner
-* @diogotcorreia
+* @rajnikantdhardwivedi7
 
-# AL - Main maintainer Diogo Correia
-content/al/** @diogotcorreia
+# AL - Main maintainer Rajnikant Dhar Dwivedi
+content/al/** @rajnikantdhardwivedi7
 
-# AMS - Main maintainer Diogo Correia
-content/ams/** @diogotcorreia
+# AMS - Main Rajnikant Dhar Dwivedi
+content/ams/** @rajnikantdhardwivedi7
 
-# Apre - Main maintainer Diogo Gaspar
+# Apre - Main maintainer Rajnikant Dhar Dwivedi
 content/apre/** @randomicecube
 
-# ASA - Main maintainer Diogo Gaspar
-content/asa/** @randomicecube
+# ASA - Main maintainer Rajnikant Dhar Dwivedi
+content/asa/** @rajnikantdhardwivedi7
 
-# BD - Main maintainer Diogo Correia
-content/bd/** @diogotcorreia
+# BD - Main maintainer Rajnikant Dhar Dwivedi
+content/bd/** @rajnikantdhardwivedi7
 
-# CDI-I - Main maintainer Diogo Correia
-content/cdi-i/** @diogotcorreia
+# CDI-I - Main maintainer Rajnikant Dhar Dwivedi
+content/cdi-i/** @rajnikantdhardwivedi7
 
-# CDI-II - Main maintainer Diogo Correia
-content/cdi-ii/** @diogotcorreia
+# CDI-II - Main maintainer Rajnikant Dhar Dwivedi
+content/cdi-ii/** @rajnikantdhardwivedi7
 
-# CDI-III - Main maintainer Diogo Correia
-content/cdi-iii/** @diogotcorreia
+# CDI-III - Main maintainer Rajnikant Dhar Dwivedi
+content/cdi-iii/** @rajnikantdhardwivedi7
 
-# CG - Main maintainer Diogo Correia
-content/cg/** @diogotcorreia
+# CG - Main maintainer Rajnikant Dhar Dwivedi
+content/cg/** @rajnikantdhardwivedi7
 
-# Comp - Main maintainer Diogo Correia
-content/comp/** @diogotcorreia
+# Comp - Main maintainer Rajnikant Dhar Dwivedi
+content/comp/** @rajnikantdhardwivedi7
 
-# DER (HACS) - Main maintainer Diogo Correia
-content/der/** @diogotcorreia
+# DER (HACS) - Main maintainer Rajnikant Dhar Dwivedi
+content/der/** @rajnikantdhardwivedi7
 
-# ES - Main maintainer Diogo Correia
-content/es/** @diogotcorreia
+# ES - Main maintainer Rajnikant Dhar Dwivedi
+content/es/** @rajnikantdhardwivedi7
 
-# Fis-I - Main maintainer Diogo Correia
-content/fis-i/** @diogotcorreia
+# Fis-I - Main maintainer Rajnikant Dhar Dwivedi
+content/fis-i/** @rajnikantdhardwivedi7
 
-# Fis-II - Main maintainer Tomás Esteves
-content/fis-ii/** @Pesteves2002
-content/fis-ii/cheatsheets @Pesteves2002
+# Fis-II - Main maintainer Rajnikant Dhar Dwivedi
+content/fis-ii/** @rajnikantdhardwivedi7
+content/fis-ii/cheatsheets @rajnikantdhardwivedi7
 
-# FP - Main maintainer Diogo Correia
-content/fp/** @diogotcorreia
+# FP - Main maintainer Rajnikant Dhar Dwivedi
+content/fp/** @rajnikantdhardwivedi7
 
-# Ges - Main maintainer Diogo Correia
-content/ges/** @diogotcorreia
-content/ges/exercicios/** @diogotcorreia
+# Ges - Main maintainer Rajnikant Dhar Dwivedi
+content/ges/** @rajnikantdhardwivedi7
+content/ges/exercicios/** @rajnikantdhardwivedi7
 
-# IA - Main maintainer Diogo Gaspar
-content/ia/** @randomicecube
+# IA - Main maintainer Rajnikant Dhar Dwivedi
+content/ia/** @rajnikantdhardwivedi7
 
-# IAC - Main maintainer Diogo Correia
-content/iac/** @diogotcorreia
+# IAC - Main maintainer Rajnikant Dhar Dwivedi
+content/iac/** @rajnikantdhardwivedi7
 
-# IAED - Main maintainer Tomás Esteves / Diogo Gaspar
+# IAED - Main maintainer Rajnikant Dhar Dwivedi
 content/iaed/** @Pesteves2002 @randomicecube
-content/iaed/meta/* @diogotcorreia
+content/iaed/meta/* @rajnikantdhardwivedi7
 
-# IEco (HACS) - Main maintainer Diogo Correia
-content/ieco/** @diogotcorreia
+# IEco (HACS) - Main maintainer Rajnikant Dhar Dwivedi
+content/ieco/** @rajnikantdhardwivedi7
 
-# IEI - Main maintainer Diogo Correia
-content/iei/** @diogotcorreia
+# IEI - Main maintainer Rajnikant Dhar Dwivedi
+content/iei/** @rajnikantdhardwivedi7
 
-# IPM - Main maintainer Diogo Correia
-content/ipm/** @diogotcorreia
+# IPM - Main maintainer Rajnikant Dhar Dwivedi
+content/ipm/** @rajnikantdhardwivedi7
 
-# LP - Main maintainer Diogo Gaspar
-content/lp/** @randomicecube
+# LP - Main maintainer Rajnikant Dhar Dwivedi
+content/lp/** @rajnikantdhardwivedi7
 
-# MD - Main maintainer Diogo Correia
-content/md/* @diogotcorreia
-content/md/imgs/* @diogotcorreia
-content/md/exercicios/* @diogotcorreia
-content/md/tools/* @diogotcorreia
+# MD - Main maintainer Rajnikant Dhar Dwivedi
+content/md/* @rajnikantdhardwivedi7
+content/md/imgs/* @rajnikantdhardwivedi7
+content/md/exercicios/* @rajnikantdhardwivedi7
+content/md/tools/* @rajnikantdhardwivedi7
 
-# OC - Main maintainer Diogo Correia
-content/oc/** @diogotcorreia
+# OC - Main maintainer Rajnikant Dhar Dwivedi
+content/oc/** @rajnikantdhardwivedi7
 
-# PE - Main maintainer Tomás Esteves
-content/pe/** @Pesteves2002
-content/pe/guides/** @diogotcorreia
+# PE - Main maintainer Rajnikant Dhar Dwivedi
+content/pe/** @rajnikantdhardwivedi7
+content/pe/guides/** @rajnikantdhardwivedi7
 
-# PO - Main maintainer Diogo Correia
-content/po/** @diogotcorreia
-content/po/guides/** @diogotcorreia
+# PO - Main maintainer Rajnikant Dhar Dwivedi
+content/po/** @rajnikantdhardwivedi7
+content/po/guides/** @rajnikantdhardwivedi7
 
-# RC - Main maintainer Diogo Correia
-content/rc/** @diogotcorreia
+# RC - Main maintainer Rajnikant Dhar Dwivedi
+content/rc/** @rajnikantdhardwivedi7
 
-# SD - Main maintainer Nuno Gonçalves / Fábio Mata
-content/sd/** @nunogoncalves03 @fmata97
+# SD - Main maintainer Rajnikant Dhar Dwivedi
+content/sd/** @rajnikantdhardwivedi7
 
 # SO - Main maintainer Tomás Esteves
-content/so/** @Pesteves2002
+content/so/** @rajnikantdhardwivedi7
 
 # TC - Main maintainer João Rocha
-content/tc/** @Calhau18
+content/tc/** @rajnikantdhardwivedi7
