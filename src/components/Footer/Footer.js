@@ -36,7 +36,7 @@ const Footer = () => {
           <ExternalLink href={owner.website}>{owner.name}</ExternalLink> with ❤️
         </span>
         <span>
-          <ExternalLink href='https://rajnikantdhardwivedi-portfolio.netlify.app'>My Portfolio</ExternalLink>
+          <ExternalLink href='https://rajnikantdhardwivedi-mu.vercel.app/'>My Portfolio</ExternalLink>
         </span>
       </div>
     </footer>
