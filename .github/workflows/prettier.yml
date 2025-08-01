@@ -1,0 +1,23 @@
+name: Run prettier on Pull Request
+
+on:
+  pull_request:
+    branches: [master]
+
+jobs:
+  prettier:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4.2.2
+
+      - name: Run Prettier
+        run: |
+          export PRETTIER_VERSION="$(yarn list --pattern prettier --depth 0 -s --json --no-progress | jq -r '.data.trees[0].name' | cut -d'@' -f2)"
+          if [[ -z "$PRETTIER_VERSION" ]]; then
+            echo "Failed to detect prettier version"
+            exit 1
+          fi
+          echo "Found prettier version: $PRETTIER_VERSION"
+          npx prettier@"$PRETTIER_VERSION" --check '**/*.{js,md,vue}'
