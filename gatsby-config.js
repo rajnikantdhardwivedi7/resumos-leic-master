@@ -3,7 +3,7 @@ module.exports = {
     title: `Insight For Tomorrow`,
     shortTitle: `Insight For Tomorrow`,
     description: `Insight For Tomorrow - Knowledge Repository`,
-    siteUrl: 'https://resumos.leic.pt',
+    siteUrl: 'https://insight-for-tomorrow.vercel.app/',
     sidebarSections: [
       { key: 'topLevelPage' },
       { key: 'content', name: '📝 Conteúdo' },
@@ -24,22 +24,22 @@ module.exports = {
       links: [
         {
           title: 'IST LEIC-A',
-          href: 'https://fenix.tecnico.ulisboa.pt/cursos/leic-a',
+          href: 'https://github.com/rajnikantdhardwivedi7',
         },
         {
           title: 'GitHub',
-          href: 'https://github.com/leic-pt/resumos-leic',
+          href: 'https://github.com/rajnikantdhardwivedi7',
         },
       ],
     },
     footer: {
       owner: {
         name: 'Rajnikant Dhar Dwivedi',
-        website: 'https://rajnikantdhardwivedi-portfolio.netlify.app',
+        website: 'https://rajnikantdhardwivedi-mu.vercel.app/',
       },
-      githubLink: 'https://github.com/leic-pt/resumos-leic',
+      githubLink: 'https://github.com/rajnikantdhardwivedi7',
       contributionGuideLink: 'https://docs.leic.pt',
-      contributorsLink: 'https://github.com/leic-pt/resumos-leic/graphs/contributors',
+      contributorsLink: 'https://github.com/rajnikantdhardwivedi7',
     },
     search: {
       host: 'https://meilisearch.diogotc.com',
