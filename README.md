@@ -1,4 +1,4 @@
-# Resumos LEIC
+# Insight For Tomorrow
 
 Este repo foi criado com o objetivo de partilhar resumos das várias UCs
 do curso de LEIC-A no Instituto Superior Técnico. Qualquer contribuição é bem-vinda (exceto material de professores, como _slides_ e livros, falem primeiro connosco).
