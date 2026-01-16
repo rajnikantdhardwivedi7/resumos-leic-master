@@ -1,19 +1,20 @@
 # Insight For Tomorrow
 
-Este repo foi criado com o objetivo de partilhar resumos das várias UCs
-do curso de LEIC-A no Instituto Superior Técnico. Qualquer contribuição é bem-vinda (exceto material de professores, como _slides_ e livros, falem primeiro connosco).
+This repository was created with the goal of sharing summaries of the various course units of the LEIC-A program at Instituto Superior Técnico. Any contribution is welcome (except for material from professors, such as slides and books; please contact us first).
 
-## Como contribuir?
+## How to contribute?
 
-Se estás a pensar contribuir para os Resumos LEIC, fizemos um guia passo a passo só para ti!
-Vai à [nossa documentação para aprenderes tudo o que precisas](https://docs.leic.pt/).
+If you're thinking about contributing to the LEIC Abstracts, we've created a step-by-step guide just for you!
 
-Se já percebes do assunto e apenas queres instruções rápidas, segue os passos abaixo.
+Go to [our documentation to learn everything you need](https://docs.leic.pt/).
 
-### Instalar ferramentas
+If you already understand the subject and just want quick instructions, follow the steps below.
 
-Para correr o código localmente, é necessário as seguintes ferramentas: `git`, `nodejs` e `yarn`.
-Abaixo encontram-se instruções para instalação em Windows e Linux.
+### Installing tools
+
+To run the code locally, you need the following tools: `git`, `nodejs`, and `yarn`.
+
+Instructions for installation on Windows and Linux are below.
 
 #### Windows
 
@@ -27,10 +28,6 @@ Abaixo encontram-se instruções para instalação em Windows e Linux.
    Recomendo seguir [este tutorial](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04#option-3-installing-node-using-the-node-version-manager) para ter o Node 18 LTS.
 2. Instalar o `yarn` através do terminal, correndo o comando `npm i -g yarn`.
 
-### Obter os ficheiros necessários
-
-1. Fazer [fork do repositório](https://github.com/leic-pt/resumos-leic/fork).
-2. Fazer clone do repo:
 
    ```bash
    git clone git@github.com:<o-teu-username>/resumos-leic.git
@@ -49,31 +46,35 @@ Abaixo encontram-se instruções para instalação em Windows e Linux.
    yarn               # or yarn install
    ```
 
-### Alterar conteúdos
+### Modifying Content
 
-Os ficheiros `.md` (markdown) estão na pasta da respetiva UC dentro de `content`.
-Assim que um ficheiro `.md` é adicionado à respetiva pasta da UC (e esteja associado a um `type`), é acessível a partir da sidebar.
-Tem ainda de ser definido o respetivo `path` (`/asa/introducao`, por exemplo).  
-Os ficheiros podem ainda ter diferentes categorias, aparecendo em diferentes sub-secções da sidebar consoante a mesma.
-Em princípio, ser-vos-á útil apenas a categoria `content`, que deve ser adicionada ao _header_ de cada ficheiro.
+The `.md` (markdown) files are located in the respective UC folder within `content`.
 
-Cada ficheiro deve conter um _header_ com a meta-informação útil correspondente a cada ficheiro, principalmente:
+Once a `.md` file is added to the respective UC folder (and associated with a `type`), it is accessible from the sidebar.
 
-- `title: <título>`, onde `<título>` será o título que aparece associado à página correspondente ao ficheiro nos resumos;
+The respective `path` (`/asa/introducao`, for example) still needs to be defined.
 
-- `description: <bullet points>`, secção que deverá indicar sucintamente os pontos importantes abordados neste capítulo dos resumos (e que aparece no _embed_ do URL ao partilhar o link da página);
+Files can also have different categories, appearing in different subsections of the sidebar depending on the category.
 
-- `path: /<UC>/<nome-da-pagina>`, _self-explanatory_;
+In principle, you will only be useful for the `content` category, which should be added to the `header` of each file.
 
-- `type: <categoria>`, tal como mencionado acima provavelmente apenas vos interessará a categoria `content`.
+Each file should contain a `header` with useful meta-information corresponding to each file, mainly:
 
-Para iniciar o servidor local, correr o comando:
+- `title: <title>`, where `<title>` will be the title that appears associated with the page corresponding to the file in the abstracts;
+
+- `description: <bullet points>`, a section that should succinctly indicate the important points covered in this chapter of the summaries (and which appears in the URL embed when sharing the page link);
+
+- `path: /<UC>/<pagename>`, self-explanatory;
+
+- `type: <category>`, as mentioned above, you will probably only be interested in the `content` category.
+
+To start the local server, run the command:
 
 ```bash
 yarn dev
 ```
 
-### Formatar o código
+### Format the code
 
 Antes de fazer um commit, é recomendado executar o `prettier` (se usarem um editor de texto - e.g. VSCode - que já executa automaticamente, não é preciso). Devem correr o comando na raiz do _repo_ (`/home/.../resumos-leic`, portanto).
 
