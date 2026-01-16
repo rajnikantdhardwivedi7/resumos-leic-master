@@ -76,8 +76,7 @@ yarn dev
 
 ### Format the code
 
-Antes de fazer um commit, é recomendado executar o `prettier` (se usarem um editor de texto - e.g. VSCode - que já executa automaticamente, não é preciso). Devem correr o comando na raiz do _repo_ (`/home/.../resumos-leic`, portanto).
-
+Before committing, it's recommended to run `prettier` (if you're using a text editor - e.g., VSCode - that already runs it automatically, this step is unnecessary). You should run the command in the root of the repository (`/home/.../resumos-leic`, therefore).
 ```bash
 yarn format
 ```
